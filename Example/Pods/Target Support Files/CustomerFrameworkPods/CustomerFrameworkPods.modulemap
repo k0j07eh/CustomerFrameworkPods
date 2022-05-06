@@ -1,0 +1,6 @@
+framework module CustomerFrameworkPods {
+  umbrella header "CustomerFrameworkPods-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - CustomerFrameworkPods (0.1.0)
+
+DEPENDENCIES:
+  - CustomerFrameworkPods (from `../`)
+
+EXTERNAL SOURCES:
+  CustomerFrameworkPods:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CustomerFrameworkPods: 954e50e91dc6fd4b42f2775e16fe0ff74c4ad6cd
+
+PODFILE CHECKSUM: aa4b771b9daa3dbf21ce3c3ef80279aa1d924d26
+
+COCOAPODS: 1.11.2
